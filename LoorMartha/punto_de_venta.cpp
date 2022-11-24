@@ -17,4 +17,4 @@ int main()//Aqui iniciamos la ejecucion del programa
 	MPLA_vn=MPLA_vb+MPLA_viva-MPLA_vdesc;//La variable MPLA_vn es igual a la variable MPLA_vb mas la variable MPLA_viva menos MPLA_vdesc
 	cout<<"El valor a pagar es de: "<<MPLA_vn<<endl;//Usamos cout para mostrar un mensaje y usamos endl para un salto de linea
 	return 0;//Usamos return para terminar la ejecucion de una funcion
-}
+}//Cerramos llave
